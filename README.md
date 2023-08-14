@@ -1,7 +1,7 @@
 # Monsters Rolodex Typescript
 This is a React application that displays a list of monsters and allows you to search for a specific monster. This is a Typescript version of the original project.
 
-= Original project: [Monsters Rolodex](https://github.com/efxlve/monsters-rolodex)
+- Original project: [Monsters Rolodex](https://github.com/efxlve/monsters-rolodex)
 
 ## Technologies
 - React
