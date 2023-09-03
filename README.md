@@ -18,7 +18,7 @@ You can view a live demo of this app [here](https://efxlve.github.io/monsters-ro
 - [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)
 - GitHub Pages
 
-## Installation
+## How to run the app
 1. Clone the repository
 ```
 git clone https://github.com/efxlve/monsters-rolodex-typescript.git
